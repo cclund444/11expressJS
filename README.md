@@ -21,9 +21,11 @@ Code Used:
 
 Technolgies: 
 
-- 
-- 
--  
+- Visual Studio Code
+- Google Video
+- GitHub
+- Git Bash
+- json
 
 References:
 
@@ -31,4 +33,8 @@ References:
 
 *GitHub repository: 
 
+https://github.com/cclund444/c11expressJS
+
 *HTML link: 
+
+https://cclund444.github.io/c11expressJS/
