@@ -31,6 +31,8 @@ References:
 
 *Walkthrough Video:
 
+<img src=""/>
+
 *GitHub repository: 
 
 https://github.com/cclund444/c11expressJS

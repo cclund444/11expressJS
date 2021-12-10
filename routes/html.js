@@ -1,5 +1,3 @@
-nes (6 sloc)  208 Bytes
-   
 const router = require('express').Router();
 const path = require('path');
 
