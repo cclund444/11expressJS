@@ -4,13 +4,17 @@ const notes = require('../db/db.json');
 const path = require('path');
 const uniqid = require('uniqid');
 
-router.get('/notes', (req, res) => {
+// console.log to check errors
+// route is not here--check my front end and back end for a match
+router.get('/api/notes', (req, res) => {
+    console.log("ping");
     const results = notes;
+    console.log(notes);
     res.json(results);
     console.log(results);
 });
 
-router.post('/notes', (req, res) => {
+router.post('/api/notes', (req, res) => {
     console.log(JSON.stringify(req.body));
     const results = notes;
     const newNote = { title: req.body.title, text: req.body.text, id: uniqid() };
