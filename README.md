@@ -31,7 +31,7 @@ References:
 
 *Walkthrough Video:
 
-<img src=""/>
+<img src="https://watch.screencastify.com/v/hmxWw6q8zPJNHDFCclHf"/>
 
 *GitHub repository: 
 
